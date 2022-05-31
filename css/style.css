@@ -1,0 +1,34 @@
+.center {
+    text-align: center;
+}
+
+.achicar {      
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+}
+
+.azul {
+    color:#005677;
+}
+
+.gris {
+    background-color: #C4C4C4;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.blue {
+    background-color:#005677;
+}
+
+.blanco {
+    color:#FFFFFF;
+}
